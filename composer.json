@@ -9,6 +9,7 @@
             "App\\Tests\\": "tests/"
         }
     },
+    "license": "MIT",
     "require": {
         "php": ">=7.0"
     },
